@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amaiaaguilar1-create.github.io/rivera-plumbing/sitemap.xml

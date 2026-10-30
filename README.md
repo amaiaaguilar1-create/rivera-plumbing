@@ -1,6 +1,6 @@
-# Rivera Plumbing
+# Rivera Plumbing & Heating
 
-A one-page site for Rivera Plumbing. The phone number on the page is (857) 228-9369. Greater Boston is listed because 857 is a Boston area code. Hours, a street address, a license number, and reviews are not on the page.
+A one-page site for Rivera Plumbing & Heating in Somerville, MA. The phone number on the page is (857) 228-9369. Hours, a street address, a license number, and reviews are not on the page.
 
 ## Publish a public link
 
